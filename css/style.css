@@ -44,6 +44,7 @@
 .about .about-content {
     margin: 150 xp auto 0 auto;
     width: 500px;
+    background: cadetblue;
 }
 
 .about .about-content p {
