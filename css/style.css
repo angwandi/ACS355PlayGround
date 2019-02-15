@@ -45,6 +45,7 @@
     margin: 150 xp auto 0 auto;
     width: 500px;
     background: cadetblue;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 .about .about-content p {
@@ -79,6 +80,7 @@
     margin: 20px;
     width: 300px;
     font-family: 'Roboto Slab' sans-serif;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 .services-content .card-container ul li p {
