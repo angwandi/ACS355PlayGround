@@ -42,6 +42,7 @@
 }
 
 .about .about-content {
+    padding: 15px;
     margin: 150 xp auto 0 auto;
     width: 500px;
     background: cadetblue;
@@ -101,6 +102,11 @@
 
 .contact .contact-content .address-holder {
     font-family: 'Roboto Slab', sans-serif;
+}
+footer {
+    background-color: black;
+    color: #09a7a1;
+    padding: 0.5em;
 }
 
 
