@@ -43,7 +43,7 @@
 
 .about .about-content {
     padding: 15px;
-    margin: 150 xp auto 0 auto;
+    margin: 150 xp auto 0xp auto;
     width: 500px;
     background: cadetblue;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
@@ -80,7 +80,7 @@
     display: inline-block;
     margin: 20px;
     width: 300px;
-    font-family: 'Roboto Slab' sans-serif;
+    font-family: 'Roboto Slab',sans-serif;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
